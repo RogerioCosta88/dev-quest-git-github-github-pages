@@ -1,0 +1,15 @@
+h1 {
+    font-size: 50px;
+    background-color: crimson;
+}
+
+h2 {
+    font-size: 30px;
+    color: crimson;
+    background-color: #000;
+}
+
+p {
+    font-size: 25px;
+    font-weight: 400;
+}
